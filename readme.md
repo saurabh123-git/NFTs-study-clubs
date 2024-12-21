@@ -9,6 +9,8 @@ Users can mint NFTs that symbolize their participation in specific study clubs, 
 
 ### **Contract Address**
 0x3e2BC49C6d78886Fc37DffC6D1135E48d4290093
+![image](https://github.com/user-attachments/assets/e9d334b1-c175-4e67-9f76-d24fb9c85dd9)
+
 
 ---
 
